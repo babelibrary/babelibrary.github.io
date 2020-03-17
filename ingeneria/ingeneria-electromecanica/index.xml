@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>Post 02</title>
-      <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-02/</link>
-      <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
-      
-      <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-02/</guid>
-      <description>post 2</description>
-    </item>
-    
-    <item>
       <title>Post hola</title>
       <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-hola/</link>
       <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
       
       <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-hola/</guid>
       <description>post 1</description>
+    </item>
+    
+    <item>
+      <title>Post prueba deploy</title>
+      <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-prueba-deploy/</link>
+      <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
+      
+      <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-prueba-deploy/</guid>
+      <description>post 2</description>
     </item>
     
     <item>
