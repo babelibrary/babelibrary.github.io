@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingeneria on My New Hugo Site</title>
-    <link>/ingeneria/</link>
+    <link>https://babelibrary.github.io/ingeneria/</link>
     <description>Recent content in Ingeneria on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2020 23:36:12 -0500</lastBuildDate>
     
-	<atom:link href="/ingeneria/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://babelibrary.github.io/ingeneria/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ingeniería Electromecánica</title>
-      <link>/ingeneria/ingeneria-electromecanica/</link>
+      <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/</link>
       <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
       
-      <guid>/ingeneria/ingeneria-electromecanica/</guid>
+      <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/</guid>
       <description>La Ingeniería electromecánica es la aplicación híbrida que surge de la combinación sinérgica de distintas áreas del conocimiento, como el electromagnetismo, la electrónica, la electricidad y la mecánica.</description>
     </item>
     
     <item>
       <title>Ingeniería Software</title>
-      <link>/ingeneria/ingeneriasoftware/</link>
+      <link>https://babelibrary.github.io/ingeneria/ingeneriasoftware/</link>
       <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
       
-      <guid>/ingeneria/ingeneriasoftware/</guid>
+      <guid>https://babelibrary.github.io/ingeneria/ingeneriasoftware/</guid>
       <description></description>
     </item>
     

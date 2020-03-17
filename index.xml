@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BABEL LIBRARY on My New Hugo Site</title>
-    <link>/</link>
+    <link>https://babelibrary.github.io/</link>
     <description>Recent content in BABEL LIBRARY on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2020 23:36:12 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://babelibrary.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post 02</title>
-      <link>/ingeneria/ingeneria-electromecanica/post-02/</link>
+      <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-02/</link>
       <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
       
-      <guid>/ingeneria/ingeneria-electromecanica/post-02/</guid>
+      <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-02/</guid>
       <description>post 2</description>
     </item>
     
     <item>
       <title>Post 1</title>
-      <link>/ingeneria/ingeneria-electromecanica/post-1/</link>
+      <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-1/</link>
       <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
       
-      <guid>/ingeneria/ingeneria-electromecanica/post-1/</guid>
+      <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/post-1/</guid>
       <description>post 1</description>
     </item>
     
     <item>
       <title>Resistencia de materiales</title>
-      <link>/ingeneria/ingeneria-electromecanica/resistencia-de-materiales/</link>
+      <link>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/resistencia-de-materiales/</link>
       <pubDate>Wed, 11 Mar 2020 23:36:12 -0500</pubDate>
       
-      <guid>/ingeneria/ingeneria-electromecanica/resistencia-de-materiales/</guid>
+      <guid>https://babelibrary.github.io/ingeneria/ingeneria-electromecanica/resistencia-de-materiales/</guid>
       <description>La resistencia de materiales clásica es una disciplina de la ingeniería mecánica, la ingeniería estructural, la ingeniería civil y la ingeniería de materiales que estudia la mecánica de sólidos deformables mediante modelos simplificados.</description>
     </item>
     
